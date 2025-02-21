@@ -16,9 +16,7 @@ I'm an aspiring **Web & Mobile Application Developer** with a passion for **desi
 - **Frameworks & Libraries:** Laravel, React Native (learning)  
 - **Tools:** Figma, Photoshop  
 
-## 🌐 Let's Connect!  
-Feel free to reach out or collaborate with me. I'm always open to new ideas and opportunities.  
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sai-zack-dev&layout=donut&theme=merko)](https://github.com/sai-zack-dev/github-readme-stats)
 <!---
 sai-zack-dev/sai-zack-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
