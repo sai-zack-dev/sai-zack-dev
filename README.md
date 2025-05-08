@@ -3,13 +3,13 @@
 I'm an aspiring **Web & Mobile Application Developer** with a passion for **designing and building cross-platform solutions**. I love exploring innovative technologies and contributing to impactful projects.
 
 ## 🚀 About Me  
-- 🌱 **Currently Learning:** React Native, NestJS  
-- 👀 **Interests:** Design, Development, and Open-Source Contributions  
-- 💼 **Background:** Previously a LAMP Stack Developer; now focused on transitioning to modern cross-platform development.  
-- 🎯 **Goals:** To collaborate on open-source projects that make a difference and grow as a developer.  
-- 📫 **Reach Me At:** [saizlinh@gmail.com](mailto:saizlinh@gmail.com)  
-- 😄 **Pronouns:** He/Him  
-- ⚡ **Fun Fact:** I switched stacks because I love the idea of building apps that work everywhere seamlessly!  
+- **Currently Learning:** React Native, NestJS  
+- **Interests:** Design, Development, and Open-Source Contributions  
+- **Background:** Previously a LAMP Stack Developer; now focused on transitioning to modern cross-platform development.  
+- **Goals:** To collaborate on open-source projects that make a difference and grow as a developer.  
+- **Reach Me At:** [saizlinh@gmail.com](mailto:saizlinh@gmail.com)  
+- **Pronouns:** He/Him  
+- **Fun Fact:** I switched stacks because I love the idea of building apps that work everywhere seamlessly!  
 
 ## 💡 Skills  
 
@@ -34,14 +34,12 @@ I have advanced experience with these tools, libraries, frameworks, and platform
     <td align="center"><a href="https://jquery.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="jQuery" /><br />jQuery</a></td>
     <td align="center"><a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /><br />Tailwind</a></td>
     <td align="center"><a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /><br />Bootstrap</a></td>
+    <td align="center"><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /><br />MySQL</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /><br />MySQL</a></td>
     <td align="center"><a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /><br />Linux</a></td>
     <td align="center"><a href="https://laravel.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /><br />Laravel</a></td>
     <td align="center"><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /><br />React</a></td>
-  </tr>
-  <tr>
     <td align="center"><a href="https://www.adobe.com/uk/products/photoshop.html"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /><br />Photoshop</a></td>
     <td align="center"><a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /><br />Figma</a></td>
   </tr>
@@ -69,9 +67,9 @@ I have basic experience with these tools, libraries, databases, and design softw
     <td align="center"><a href="https://firebase.google.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /><br />Firebase</a></td>
     <td align="center"><a href="https://www.blender.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /><br />Blender</a></td>
     <td align="center"><a href="https://store.arduino.cc/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /><br />Arduino</a></td>
+    <td align="center"><a href="https://dotnet.microsoft.com/en-us/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /><br />.NET</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://dotnet.microsoft.com/en-us/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /><br />.NET</a></td>
     <td align="center"><a href="https://www.adobe.com/uk/products/illustrator.html"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /><br />Illustrator</a></td>
     <td align="center"><a href="https://www.adobe.com/uk/products/aftereffects.html"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /><br />After Effects</a></td>
     <td align="center"><a href="https://www.adobe.com/uk/products/premiere.html"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /><br />Premiere Pro</a></td>
