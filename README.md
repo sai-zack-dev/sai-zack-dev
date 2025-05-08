@@ -25,7 +25,7 @@ I have advanced proficiency in these languages:
   </tr>
 </table>
 
-### ⚒Advanced Tools & Frameworks  
+### Advanced Tools & Frameworks  
 I have advanced experience with these tools, libraries, frameworks, and platforms:
 
 <table>
