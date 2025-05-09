@@ -1,4 +1,4 @@
-# ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hello, I'm Sai Zack  
+# Hello, I'm Sai Zack  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 I'm an aspiring **Web & Mobile Application Developer** with a passion for **designing and building cross-platform solutions**. I love exploring innovative technologies and contributing to impactful projects.
 
