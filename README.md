@@ -7,7 +7,7 @@ I'm an aspiring **Web & Mobile Application Developer** with a passion for **desi
 - **Interests:** Design, Development, and Open-Source Contributions  
 - **Background:** Previously a LAMP Stack Developer; now focused on transitioning to modern cross-platform development.  
 - **Goals:** To collaborate on open-source projects that make a difference and grow as a developer.  
-- **Reach Me At:** [saizlinh@gmail.com](mailto:saizlinh@gmail.com)  
+- **Reach Me At:** [saizlinh@gmail.com](mailto:saizack02@gmail.com)  
 - **Pronouns:** He/Him  
 - **Fun Fact:** I switched stacks because I love the idea of building apps that work everywhere seamlessly!  
 
