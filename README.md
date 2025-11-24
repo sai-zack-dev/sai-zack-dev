@@ -15,7 +15,7 @@ I'm a **Cybersecurity Graduate, Mobile & Desktop Cross-Platform Software Enginee
 ### Cybersecurity Portfolio
 > Projects, reports, labs, and case studies from my Cybersecurity background. <br /><br />
 > <a href="https://www.canva.com/design/DAGwf_7k-WM/HDjBzIh8xrJLUc-aVChkDA/view?utm_content=DAGwf_7k-WM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h034621bb9f">
-    <img src="https://img.shields.io/badge/Cybersecurity-Portfolio-blue?style=for-the-badge&logo=kali-linux" />
+    <img src="https://img.shields.io/badge/Cyber%20security-Portfolio-blue?style=for-the-badge&logo=kali-linux" />
   </a>
   
 ### **Mobile Apps Showcase**
@@ -27,7 +27,7 @@ I'm a **Cybersecurity Graduate, Mobile & Desktop Cross-Platform Software Enginee
 ### **Software Engineering Portfolio**  
 > A collection of my best projects across web, desktop, and cross-platform development. <br /><br />
 > <a href="https://www.canva.com/design/DAGwf_7k-WM/HDjBzIh8xrJLUc-aVChkDA/view">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Now-red?style=for-the-badge&logo=laravel" />
+    <img src="https://img.shields.io/badge/Software%20Dev-Portfolio-red?style=for-the-badge&logo=laravel" />
   </a> <br />
 
 ## 💡 Skills  
