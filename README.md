@@ -1,29 +1,34 @@
 # Hello, I'm Sai Zack  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-I'm an aspiring **Mobile & Desktop Cross-Platform Software Engineer**, **Web Developer**, and **UI/UX Designer**, passionate about taking on **multiple roles across the Software Development Life Cycle (SDLC)**. I enjoy building solutions that are innovative, impactful, and useful for the world.
+I'm a **Cybersecurity Graduate, Mobile & Desktop Cross-Platform Software Engineer, Web Developer**, and **UI/UX Designer**, passionate about taking on **multiple roles across the Software Development Life Cycle (SDLC)**. I enjoy building solutions that are innovative, impactful, and useful for the world.
 
 ## 🚀 About Me  
-- **Currently Learning:** Nest.js, GraphQL  
-- **Interests:** Design, Development & exploring multiple roles across SDLC  
+- **Currently Learning:** Next.js, Nuxt.js, Nest.js, Nx, NoSQL 
+- **Interests:** Designing, building, taking on multiple SDLC roles, and creating fun experimental projects with scalable architectures.
 - **Background:** From Laravel Developer → JavaScript Developer → continuously learning as much as possible  
 - **Goals:** To build innovative and impactful projects that can make a real difference  
 - **Reach Me At:** [saizack02@gmail.com](mailto:saizack02@gmail.com), [saizlinh@gmail.com](mailto:saizlinh@gmail.com)
-- **Fun Fact:** I switched stacks because I love the idea of building apps that work everywhere seamlessly!  
+- **Fun Fact:** I love switching stacks and learning new tech—because building apps that work everywhere feels magical ✨
 
 ## 🔗 Featured Work  
 
+### Cybersecurity Portfolio
+> Projects, reports, labs, and case studies from my Cybersecurity background. <br /><br />
+> <a href="https://www.canva.com/design/DAGwf_7k-WM/HDjBzIh8xrJLUc-aVChkDA/view?utm_content=DAGwf_7k-WM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h034621bb9f">
+    <img src="https://img.shields.io/badge/Cybersecurity-Portfolio-blue?style=for-the-badge&logo=kali-linux" />
+  </a>
+  
+### **Mobile Apps Showcase**
+> Innovative mobile app designs and real-world implementations. <br /><br />
+> <a href="https://www.canva.com/design/DAGyIEqwDdM/xR6qrOsgBM50QZ6uPGnN7Q/view">
+    <img src="https://img.shields.io/badge/Mobile%20Apps-Showcase%20%EF%B8%8F-cyan?style=for-the-badge&logo=react" />
+  </a>
+  
 ### **Software Engineering Portfolio**  
 > A collection of my best projects across web, desktop, and cross-platform development. <br /><br />
 > <a href="https://www.canva.com/design/DAGwf_7k-WM/HDjBzIh8xrJLUc-aVChkDA/view">
     <img src="https://img.shields.io/badge/Portfolio-View%20Now-red?style=for-the-badge&logo=laravel" />
   </a> <br />
-
-### **Mobile Apps Showcase**
-> Innovative mobile app designs and real-world implementations. <br /><br />
-> <a href="https://www.canva.com/design/DAGyIEqwDdM/xR6qrOsgBM50QZ6uPGnN7Q/view">
-    <img src="https://img.shields.io/badge/Mobile%20Apps-Showcase%20%EF%B8%8F-blue?style=for-the-badge&logo=react" />
-  </a>
-
 
 ## 💡 Skills  
 
