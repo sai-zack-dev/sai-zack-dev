@@ -14,7 +14,7 @@ I'm a **Cybersecurity Graduate, Mobile & Desktop Cross-Platform Software Enginee
 
 ### Cybersecurity Portfolio
 > Projects, reports, labs, and case studies from my Cybersecurity background. <br /><br />
-> <a href="https://www.canva.com/design/DAGwf_7k-WM/HDjBzIh8xrJLUc-aVChkDA/view?utm_content=DAGwf_7k-WM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h034621bb9f">
+> <a href="https://www.canva.com/design/DAGuhX3C7sk/nLuPJXJqW-mtXOjIx38Yig/view?utm_content=DAGuhX3C7sk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h32ddf30a9d">
     <img src="https://img.shields.io/badge/Cyber%20security-Portfolio-blue?style=for-the-badge&logo=kali-linux" />
   </a>
   
