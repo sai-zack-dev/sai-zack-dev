@@ -1,104 +1,146 @@
-# Hello, I'm Sai Zack  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hello, I'm Sai Zack ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-I'm a **Cybersecurity Graduate, Mobile & Desktop Cross-Platform Software Engineer, Web Developer**, and **UI/UX Designer**, passionate about taking on **multiple roles across the Software Development Life Cycle (SDLC)**. I enjoy building solutions that are innovative, impactful, and useful for the world.
+I'm a **Cybersecurity Graduate, Software Development Engineer**, and **UI/UX Designer**, passionate about taking on **multiple roles across the Software Development Life Cycle (SDLC)**. I enjoy building solutions that are innovative, impactful, and useful for the world.
 
-## 🚀 About Me  
-- **Currently Learning:** Next.js, Nuxt.js, Nest.js, Nx, NoSQL 
-- **Interests:** Designing, building, taking on multiple SDLC roles, and creating fun experimental projects with scalable architectures.
-- **Background:** From Laravel Developer → JavaScript Developer → continuously learning as much as possible  
-- **Goals:** To build innovative and impactful projects that can make a real difference  
-- **Reach Me At:** [saizack02@gmail.com](mailto:saizack02@gmail.com), [saizlinh@gmail.com](mailto:saizlinh@gmail.com)
-- **Fun Fact:** I love switching stacks and learning new tech—because building apps that work everywhere feels magical ✨
+---
 
-## 🔗 Featured Work  
+## About Me
 
-### Cybersecurity Portfolio
-> Projects, reports, labs, and case studies from my Cybersecurity background. <br /><br />
-> <a href="https://www.canva.com/design/DAGuhX3C7sk/nLuPJXJqW-mtXOjIx38Yig/view?utm_content=DAGuhX3C7sk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h32ddf30a9d">
-    <img src="https://img.shields.io/badge/Cyber%20security-Portfolio-blue?style=for-the-badge&logo=kali-linux" />
-  </a>
-  
-### **Mobile Apps Showcase**
-> Innovative mobile app designs and real-world implementations. <br /><br />
-> <a href="https://www.canva.com/design/DAGyIEqwDdM/xR6qrOsgBM50QZ6uPGnN7Q/view">
-    <img src="https://img.shields.io/badge/Mobile%20Apps-Showcase%20%EF%B8%8F-cyan?style=for-the-badge&logo=react" />
-  </a>
-  
-### **Software Engineering Portfolio**  
-> A collection of my best projects across web, desktop, and cross-platform development. <br /><br />
-> <a href="https://www.canva.com/design/DAGwf_7k-WM/HDjBzIh8xrJLUc-aVChkDA/view">
-    <img src="https://img.shields.io/badge/Software%20Dev-Portfolio-red?style=for-the-badge&logo=laravel" />
-  </a> <br />
+- **Currently Learning:** Artificial Intelligence & Machine Learning
+- **Interests:** Interests: Designing and Building Software Systems, System Architecture, AI and Automation
+- **Background:** From Laravel Developer → JavaScript Developer → continuously learning as much as possible
+- **Reach Me At:**
+  - [saizlinh@gmail.com](mailto:saizlinh@gmail.com) (For Personal)
+  - [saizack02@gmail.com](mailto:saizack02@gmail.com) (For Work)
 
-## 💡 Skills  
+---
 
-### Primary Programming Languages  
+## Featured Works
+
+<table>
+    <tr>
+        <td> 
+            <a href="https://www.canva.com/design/DAGwf_7k-WM/HDjBzIh8xrJLUc-aVChkDA/view">
+                <img src="https://img.shields.io/badge/Software%20Dev-Portfolio-red?style=for-the-badge&logo=laravel" />
+            </a> <br>
+            A collection of my best projects across web, desktop, and cross-platform development.
+        </td>
+        <td>
+            <a href="https://www.canva.com/design/DAGuhX3C7sk/nLuPJXJqW-mtXOjIx38Yig/view?utm_content=DAGuhX3C7sk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h32ddf30a9d">
+                <img src="https://img.shields.io/badge/Cyber%20security-Portfolio-blue?style=for-the-badge&logo=kali-linux" />
+            </a> <br>
+            Projects, reports, labs, and case studies from my Cybersecurity background.
+        </td>
+    </tr>
+</table>
+
+---
+
+## Technical Stack
+
+### Primary Languages
 I have advanced proficiency in these languages:
-
 <table>
   <tr>
-    <td align="center"><a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /><br />TypeScript</a></td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /><br />JavaScript</a></td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /><br />HTML5</a></td>
-    <td align="center"><a href="https://www.w3.org/TR/CSS/#css"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /><br />CSS3</a></td>
-    <td align="center"><a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /><br />PHP</a></td>
-    <td align="center"><a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /><br />Python</a></td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="48" /><br/>JavaScript</a></td>
+    <td align="center"><a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="48" /><br/>TypeScript</a></td>
+    <td align="center"><a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" width="48" /><br/>PHP</a></td>
+    <td align="center"><a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="48" /><br/>Python</a></td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="48" /><br/>HTML5</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="48" /><br/>CSS3</a></td>
+    <td align="center"><a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="48" /><br/>SQL</a></td>
+  </tr>
+</table>
+ 
+### Frameworks & Tools
+I have advanced experience with these frameworks and technologies:
+<table>
+  <tr>
+    <td align="center"><a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" width="48" /><br/>Laravel</a></td>
+    <td align="center"><a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" width="48" /><br/>React</a></td>
+    <td align="center"><a href="https://reactnative.dev/"><img src="https://skillicons.dev/icons?i=react" width="48" /><br/>React Native</a></td>
+    <td align="center"><a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="48" /><br/>Next.js</a></td>
+    <td align="center"><a href="https://www.electronjs.org/"><img src="https://skillicons.dev/icons?i=electron" width="48" /><br/>Electron</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="48" /><br/>Tailwind</a></td>
+    <td align="center"><a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" /><br/>Bootstrap</a></td>
+    <td align="center"><a href="https://jquery.com/"><img src="https://skillicons.dev/icons?i=jquery" width="48" /><br/>jQuery</a></td>
+  </tr>
+</table>
+ 
+### Design Tools
+I have proficiency with these deisgn tools:
+<table>
+  <tr>
+    <td align="center"><a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" width="48" /><br/>Figma</a></td>
+    <td align="center"><a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" width="48" /><br/>Photoshop</a></td>
+    <td align="center"><a href="https://www.adobe.com/products/xd.html"><img src="https://skillicons.dev/icons?i=xd" width="48" /><br/>Adobe XD</a></td>
   </tr>
 </table>
 
-### Advanced Tools & Frameworks  
-I have advanced experience with these tools, libraries, frameworks, and platforms:
-
+### DevOps & Databases
+I've basic experience and proficiency with these tools:
 <table>
   <tr>
-    <td align="center"><a href="https://laravel.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /><br />Laravel</a></td>
-    <td align="center"><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /><br />React</a></td>
-    <td align="center"><a href="https://reactnative.dev/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React Native" /><br />React Native</a></td>
-    <td align="center"><a href="https://www.electronjs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" width="36" height="36" alt="Electron" /><br />Electron</a></td>
-    <td align="center"><a href="https://www.sqlite.org/"><img src="https://images.icon-icons.com/2107/PNG/512/file_type_sqlite_icon_130153.png" width="36" height="36" alt="SQLite" /><br />SQLite</a></td>
-    <td align="center"><a href="https://lynxjs.org/"><img src="https://github.com/lynx-family.png" width="36" height="36" alt="Lynx" /><br />Lynx</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /><br />Git</a></td>
-    <td align="center"><a href="https://jquery.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="jQuery" /><br />jQuery</a></td>
-    <td align="center"><a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /><br />Tailwind</a></td>
-    <td align="center"><a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /><br />Bootstrap</a></td>
-    <td align="center"><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /><br />MySQL</a></td>
-    <td align="center"><a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /><br />Linux</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://www.canva.com/"><img src="https://freelogopng.com/images/all_img/1656733807canva-icon-png.png" width="36" height="36" alt="Canva" /><br />Canva</a></td>
+    <td align="center"><a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="48" /><br/>Git</a></td>
+    <td align="center"><a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="48" /><br/>Linux</a></td>
+    <td align="center"><a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="48" /><br/>REST API</a></td>
+    <td align="center"><a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="48" /><br/>MySQL</a></td>
+    <td align="center"><a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" width="48" /><br/>SQLite</a></td>
   </tr>
 </table>
-
-### Secondary Programming Languages  
+ 
+### Secondary Languages
 I have foundational knowledge in these languages:
-
 <table>
   <tr>
-    <td align="center"><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /><br />C</a></td>
-    <td align="center"><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /><br />C++</a></td>
-    <td align="center"><a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /><br />C#</a></td>
-    <td align="center"><a href="https://www.oracle.com/java/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /><br />Java</a></td>
-    <td align="center"><a href="https://go.dev/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /><br />Go</a></td>
+    <td align="center"><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://skillicons.dev/icons?i=c" width="48" /><br/>C</a></td>
+    <td align="center"><a href="https://cplusplus.com/"><img src="https://skillicons.dev/icons?i=cpp" width="48" /><br/>C++</a></td>
+    <td align="center"><a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://skillicons.dev/icons?i=cs" width="48" /><br/>C#</a></td>
+    <td align="center"><a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="48" /><br/>Java</a></td>
+    <td align="center"><a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" width="48" /><br/>Go</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://dart.dev/"><img src="https://skillicons.dev/icons?i=dart" width="48" /><br/>Dart</a></td>
+  </tr>
+</table>
+ 
+### Other Tools & Technologies
+I have basic experience with these technologies, libraries, databases and tools:
+<table>
+  <tr>
+    <td align="center"><a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="48" /><br/>PostgreSQL</a></td>
+    <td align="center"><a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" width="48" /><br/>Firebase</a></td>
+    <td align="center"><a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" width="48" /><br/>Supabase</a></td>
+    <td align="center"><a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" width="48" /><br/>Flutter</a></td>
+    <td align="center"><a href="https://nuxt.com/"><img src="https://skillicons.dev/icons?i=nuxtjs" width="48" /><br/>Nuxt.js</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" width="48" /><br/>Flask</a></td>
+    <td align="center"><a href="https://graphql.org/"><img src="https://skillicons.dev/icons?i=graphql" width="48" /><br/>GraphQL</a></td>
+    <td align="center"><a href="https://www.blender.org/"><img src="https://skillicons.dev/icons?i=blender" width="48" /><br/>Blender</a></td>
+    <td align="center"><a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" width="48" /><br/>Arduino</a></td>
+    <td align="center"><a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="48" /><br/>Docker</a></td>
   </tr>
 </table>
 
-### Other Tools & Technologies  
-I have basic experience with these tools, libraries, databases, and design software:
+## Goals
 
-<table>
-  <tr>
-    <td align="center"><a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /><br />PostgreSQL</a></td>
-    <td align="center"><a href="https://firebase.google.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /><br />Firebase</a></td>
-    <td align="center"><a href="https://spline.design/"><img src="https://spline.design/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fspline_logo.647803e0.png&w=128&q=75" width="36" height="36" alt="Spline" /><br />Spline</a></td>
-    <td align="center"><a href="https://www.blender.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /><br />Blender</a></td>
-    <td align="center"><a href="https://store.arduino.cc/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /><br />Arduino</a></td>
-    <td align="center"><a href="https://www.odoo.com/"><img src="https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo.png" width="36" height="36" alt="Arduino" /><br />odoo ERP</a></td>
-    
-  </tr>
-</table>
+> To build innovative and impactful systems that can make a real difference, not just functional software, but solutions that are thoughtfully architected, well-designed, and genuinely useful for the people who use them.
 
-## ⚒️ Most Used Languages  
+_I love switching programming languages and picking up new tech because building whatever I want, for fun, that actually works and helps people everywhere, feels like magical._
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sai-zack-dev&layout=donut&theme=merko)](https://github.com/sai-zack-dev/github-readme-stats)
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-zack-dev&layout=donut&theme=merko&hide_border=true" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sai-zack-dev&theme=merko&hide_border=true)](https://git.io/streak-stats)
+
+</div>
