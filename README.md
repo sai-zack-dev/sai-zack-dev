@@ -7,7 +7,7 @@ I'm a **Cybersecurity Graduate, Software Development Engineer**, and **UI/UX Des
 ## About Me
 
 - **Currently Learning:** Artificial Intelligence & Machine Learning
-- **Interests:** Interests: Designing and Building Software Systems, System Architecture, AI and Automation
+- **Interests:** Designing and Building Software Systems, System Architecture, AI and Automation
 - **Background:** From Laravel Developer → JavaScript Developer → continuously learning as much as possible
 - **Reach Me At:**
   - [saizlinh@gmail.com](mailto:saizlinh@gmail.com) (For Personal)
