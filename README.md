@@ -10,38 +10,7 @@ I'm a **Cybersecurity Graduate, Software Development Engineer**, and **UI/UX Des
 * **Core interests:** System architecture, backend engineering, AI-driven solutions, and automation
 * **What I enjoy:** Turning ideas into complete products - from UI/UX design to backend systems and deployment
 
-### Background Journey
-
-My path into tech has been hands-on and continuously evolving:
-
-* **Foundation (2016–2020):**
-  <br> 2016–2018 (Information Technology High School Diploma - C++ basics, basic networking, computer hardware)
-  <br> 2018 (Industrial Technology Certification - electrical & electronics, Arduino, hydraulic and pneumatic systems)
-  <br> 2018–2020 (IT majoring at GTI - C++ programming, network fundamentals, Computer A+ & troubleshooting)
-
-* **Exploration (2020–2022):**
-  <br> Transitioned into design and frontend development through self-study - UI/UX, graphic design, HTML, CSS, and JavaScript
-
-* **Professional Growth (2022–2024):**
-  <br> Worked full-time as a software engineer while simultaneously completing an OTHM Diploma in Information Technology. During this period, I built real-world applications using: <br>
-→ JavaScript / TypeScript / Node.js <br>
-→ Laravel (PHP) <br>
-→ System architecture, version control, and server management (Linux)
-
-* **Cybersecurity Exposure (2024–2026):**
-  <br> Completed a Bachelor's degree in Cybersecurity. While not my primary focus, this experience strengthened my understanding of secure software design, privacy, vulnerability analysis, and attacker mindset - all of which I apply to build more resilient systems
-
-* **Now:**
-  <br> Focused on AI/ML, aiming to combine intelligent systems with strong engineering and security foundations
-
-### Contact
-
-* Personal: [saizlinh@gmail.com](mailto:saizlinh@gmail.com)
-* Work: [saizack02@gmail.com](mailto:saizack02@gmail.com)
-
----
-
-## Featured Works
+### Featured Works
 
 <table>
     <tr>
@@ -153,11 +122,46 @@ I have basic experience with these technologies, libraries, databases and tools:
   </tr>
 </table>
 
+---
+
+## Background Journey
+
+My path into tech has been hands-on and continuously evolving:
+
+* **Foundation (2016–2020):**
+  <br> 2016–2018 (Information Technology High School Diploma - C++ basics, basic networking, computer hardware)
+  <br> 2018 (Industrial Technology Certification - electrical & electronics, Arduino, hydraulic and pneumatic systems)
+  <br> 2018–2020 (IT majoring at GTI - C++ programming, network fundamentals, Computer A+ & troubleshooting)
+
+* **Exploration (2020–2022):**
+  <br> Transitioned into design and frontend development through self-study - UI/UX, graphic design, HTML, CSS, and JavaScript
+
+* **Professional Growth (2022–2024):**
+  <br> Worked full-time as a software engineer while simultaneously completing an OTHM Diploma in Information Technology. During this period, I built real-world applications using: <br>
+→ JavaScript / TypeScript / Node.js <br>
+→ Laravel (PHP) <br>
+→ System architecture, version control, and server management (Linux)
+
+* **Cybersecurity Exposure (2024–2026):**
+  <br> Completed a Bachelor's degree in Cybersecurity. While not my primary focus, this experience strengthened my understanding of secure software design, privacy, vulnerability analysis, and attacker mindset - all of which I apply to build more resilient systems
+
+* **Now:**
+  <br> Focused on AI/ML, aiming to combine intelligent systems with strong engineering and security foundations
+
+---
+
 ## Goals
 
 > To build innovative and impactful systems that can make a real difference, not just functional software, but solutions that are thoughtfully architected, well-designed, and genuinely useful for the people who use them.
 
 _I love switching programming languages and picking up new tech because building whatever I want, for fun, that actually works and helps people everywhere, feels like magical._
+
+---
+
+## Contact
+
+* Personal: [saizlinh@gmail.com](mailto:saizlinh@gmail.com)
+* Work: [saizack02@gmail.com](mailto:saizack02@gmail.com)
 
 ---
 
